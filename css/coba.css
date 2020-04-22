@@ -310,14 +310,14 @@ input[type=submit]:hover {
   .logofooter{
     max-width: 100%;
     height: auto;
-    margin-left: 5;
+    margin-left: 0;
     
   }
 
   .logofooter2{
     max-width: 50%;
     height: auto;
-    margin-left: 40px;
+    margin-left: 10px;
   }
   .footer{
     display: inline-block;
@@ -327,6 +327,7 @@ input[type=submit]:hover {
   .col-logo{
     width: 100%;
     display: block;
+    text-align: center ;
   }
   .col-footer{
     width: 100%;    
